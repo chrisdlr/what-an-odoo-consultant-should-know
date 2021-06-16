@@ -1,0 +1,1 @@
+# que-debe-saber-un-funconal-de-odoo

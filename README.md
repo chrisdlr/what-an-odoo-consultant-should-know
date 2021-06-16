@@ -1,4 +1,4 @@
-# que-debe-saber-un-funconal-de-odoo
+# Qué debe saber un funcional de odoo
 1. Capacitar a los clientes, para lo cual tienen que conocer todas las soluciones que tenemos de odoo.
 2. Probar los modulos desarrollados para los clientes.
 4. Auditar los procesos de los clientes, para hacer mantenimiento correctivo.

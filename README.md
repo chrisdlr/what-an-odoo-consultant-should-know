@@ -5,6 +5,5 @@
 5. Ayudar a los clientes con los dudas.
 6. Participar en Reunion de avance de proyecto.
 7. Revisar y Gestionar los ticket que salgan de los proyectos.
-8. Contestar las preguntas de los clientes segun los canales que usamos.
-9. Aportar soluciones a los programadores.
-10. Chat de Ventas.
+8. Aportar soluciones a los programadores.
+9. Chat de Ventas.
